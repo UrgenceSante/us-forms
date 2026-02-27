@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UsFormAdmin.Infrastructure/1.0.0": {
+        "dependencies": {
+          "UsFormAdmin.Application": "1.0.0",
+          "UsFormAdmin.Model": "1.0.0"
+        },
+        "runtime": {
+          "UsFormAdmin.Infrastructure.dll": {}
+        }
+      },
+      "UsFormAdmin.Application/1.0.0": {
+        "dependencies": {
+          "UsFormAdmin.Model": "1.0.0"
+        },
+        "runtime": {
+          "UsFormAdmin.Application.dll": {}
+        }
+      },
+      "UsFormAdmin.Model/1.0.0": {
+        "runtime": {
+          "UsFormAdmin.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsFormAdmin.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UsFormAdmin.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UsFormAdmin.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

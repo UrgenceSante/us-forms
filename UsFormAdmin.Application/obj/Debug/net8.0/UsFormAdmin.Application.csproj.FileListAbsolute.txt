@@ -1,0 +1,15 @@
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/bin/Debug/net8.0/UsFormAdmin.Application.deps.json
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/bin/Debug/net8.0/UsFormAdmin.Application.dll
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/bin/Debug/net8.0/UsFormAdmin.Application.pdb
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/bin/Debug/net8.0/UsFormAdmin.Model.dll
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/bin/Debug/net8.0/UsFormAdmin.Model.pdb
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/obj/Debug/net8.0/UsFormAdmin.Application.csproj.AssemblyReference.cache
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/obj/Debug/net8.0/UsFormAdmin.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/obj/Debug/net8.0/UsFormAdmin.Application.AssemblyInfoInputs.cache
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/obj/Debug/net8.0/UsFormAdmin.Application.AssemblyInfo.cs
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/obj/Debug/net8.0/UsFormAdmin.Application.csproj.CoreCompileInputs.cache
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/obj/Debug/net8.0/UsFormAd.4080332A.Up2Date
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/obj/Debug/net8.0/UsFormAdmin.Application.dll
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/obj/Debug/net8.0/refint/UsFormAdmin.Application.dll
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/obj/Debug/net8.0/UsFormAdmin.Application.pdb
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/obj/Debug/net8.0/ref/UsFormAdmin.Application.dll

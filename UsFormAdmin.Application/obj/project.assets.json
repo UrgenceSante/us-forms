@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "UsFormAdmin.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/UsFormAdmin.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UsFormAdmin.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsFormAdmin.Model/1.0.0": {
+      "type": "project",
+      "path": "../UsFormAdmin.Model/UsFormAdmin.Model.csproj",
+      "msbuildProject": "../UsFormAdmin.Model/UsFormAdmin.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "UsFormAdmin.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/alexandredelesse/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/UsFormAdmin.Application.csproj",
+      "projectName": "UsFormAdmin.Application",
+      "projectPath": "/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/UsFormAdmin.Application.csproj",
+      "packagesPath": "/Users/alexandredelesse/.nuget/packages/",
+      "outputPath": "/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/alexandredelesse/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Model/UsFormAdmin.Model.csproj": {
+              "projectPath": "/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Model/UsFormAdmin.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

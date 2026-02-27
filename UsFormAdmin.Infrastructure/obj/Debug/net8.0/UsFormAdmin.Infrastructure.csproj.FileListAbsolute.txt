@@ -1,0 +1,17 @@
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/bin/Debug/net8.0/UsFormAdmin.Infrastructure.deps.json
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/bin/Debug/net8.0/UsFormAdmin.Infrastructure.dll
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/bin/Debug/net8.0/UsFormAdmin.Infrastructure.pdb
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/bin/Debug/net8.0/UsFormAdmin.Application.dll
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/bin/Debug/net8.0/UsFormAdmin.Model.dll
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/bin/Debug/net8.0/UsFormAdmin.Application.pdb
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/bin/Debug/net8.0/UsFormAdmin.Model.pdb
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/obj/Debug/net8.0/UsFormAdmin.Infrastructure.csproj.AssemblyReference.cache
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/obj/Debug/net8.0/UsFormAdmin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/obj/Debug/net8.0/UsFormAdmin.Infrastructure.AssemblyInfoInputs.cache
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/obj/Debug/net8.0/UsFormAdmin.Infrastructure.AssemblyInfo.cs
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/obj/Debug/net8.0/UsFormAdmin.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/obj/Debug/net8.0/UsFormAd.CA37B644.Up2Date
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/obj/Debug/net8.0/UsFormAdmin.Infrastructure.dll
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/obj/Debug/net8.0/refint/UsFormAdmin.Infrastructure.dll
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/obj/Debug/net8.0/UsFormAdmin.Infrastructure.pdb
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Infrastructure/obj/Debug/net8.0/ref/UsFormAdmin.Infrastructure.dll

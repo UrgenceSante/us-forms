@@ -1,0 +1,11 @@
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Model/bin/Debug/net8.0/UsFormAdmin.Model.deps.json
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Model/bin/Debug/net8.0/UsFormAdmin.Model.dll
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Model/bin/Debug/net8.0/UsFormAdmin.Model.pdb
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Model/obj/Debug/net8.0/UsFormAdmin.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Model/obj/Debug/net8.0/UsFormAdmin.Model.AssemblyInfoInputs.cache
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Model/obj/Debug/net8.0/UsFormAdmin.Model.AssemblyInfo.cs
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Model/obj/Debug/net8.0/UsFormAdmin.Model.csproj.CoreCompileInputs.cache
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Model/obj/Debug/net8.0/UsFormAdmin.Model.dll
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Model/obj/Debug/net8.0/refint/UsFormAdmin.Model.dll
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Model/obj/Debug/net8.0/UsFormAdmin.Model.pdb
+/Users/alexandredelesse/workspace/Urgence sante/us-forms/UsFormAdmin.Model/obj/Debug/net8.0/ref/UsFormAdmin.Model.dll
